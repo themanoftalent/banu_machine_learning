@@ -1,6 +1,5 @@
 import random
 
-
 def game():
     secret_num = random.randint(1, 10)
     guesses = []
@@ -29,6 +28,5 @@ def game():
         game()
     else:
         print("Bye!")
-
 
 game()
