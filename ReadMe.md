@@ -1,20 +1,20 @@
 git config --global user.name "Sam Smith"
 git config --global user.email sam@example.com
 
-####################################################################################################################################################
+#######################################################################################################
 
 $ git init      
 $ git add .     
 $ git commit -m "Changes"
 
 or
-####################################################################################################################################################
+#######################################################################################################
 
 Common usages and options for git init
 git init: Transform the current directory into a Git repository
 git init <directory>: Transform a directory in the current path into a Git repository
 git init --bare: Create a new bare repository (a repository to be used as a remote repository only, that won't contain active development)
-####################################################################################################################################################
+#######################################################################################################
 some commands
 
 git pull
@@ -40,7 +40,7 @@ git diff <sourcebranch>
 git log
 
 
-
+#######################################################################################################
 Basic functions
 print() -> output stuff
 
@@ -76,3 +76,5 @@ float() -> convert to float
 int() -> convert to int
 
 bool() -> convert to bool
+
+#######################################################################################################
