@@ -1,0 +1,2 @@
+def FiyatHesapla():
+    print("FiyatHesaplaniyor...")
